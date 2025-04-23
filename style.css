@@ -1,0 +1,76 @@
+header{
+    background-color: black;
+    color: white;
+}
+li,ul{
+    display: inline;
+    color: grey;
+    cursor: pointer;
+    
+}
+ 
+li:hover{
+    background-color: black;
+    color: white;
+    
+}
+
+    
+h1{
+    text-align: center;
+}
+ul{
+    margin-left: 42%;
+}
+.box{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    margin-top: 50px;
+    cursor: pointer;
+
+}
+
+img{
+    width: 220px;
+    height: 200px;
+}
+.Menu{
+    text-align: center;
+}
+p:hover{
+    background-color: black;
+    color: white;
+
+}
+article:hover{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
+table{
+    background-color: black;
+    color: white;
+    display: block;
+    
+    flex-grow: 1;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    justify-items: center;
+    
+}
+.contact{
+    display: flex;
+    
+}
